@@ -17,3 +17,10 @@
   - Option 3: Display the reviews of a place.
   - Option 4: Calculate the path between two nodes.
 
+ ## The following is a sample of this file. This file represents some actual data of the following map
+
+ <center>
+<img src="https://github.com/AmarAlrifaie/MazeSolver/assets/169054714/999b59df-d310-4456-99b9-45af391818e0" alt="Description of image" width="500">
+  
+</center>
+
